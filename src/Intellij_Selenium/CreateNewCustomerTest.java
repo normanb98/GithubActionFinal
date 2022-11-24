@@ -11,7 +11,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import java.util.concurrent.TimeUnit;
 
 
-//New Project
+//New Project1
 public class CreateNewCustomerTest {
 
     protected WebDriver driver;
